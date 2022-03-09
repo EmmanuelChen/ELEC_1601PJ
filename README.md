@@ -1,4 +1,4 @@
-# 1601PJ
+# elec1601_PJ
 This is a project done for course ELEC1601.
 The final code can be find in code_documentation, 
 one for master (PJ_MASTER_V2.0) and one for slave

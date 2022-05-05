@@ -11,6 +11,8 @@ unit via bluetooth communication by changing the master units LED light.
 
 # Note
 Requires a remote controller to work, switch mode with button 1 (auto) 0 (manual).
-
- 
+* If you servo doesn't start/move
+    - Make sure battery is fully charged, the servo motor draws alot of power when starting up
+    - Other solutions can be found on https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/if-the-servo-misbehaves
+# Credits
 Credits to Elizaveta Fishman, Valerie Ku and Angga Hong

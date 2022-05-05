@@ -1,5 +1,5 @@
 # ELEC1601 project
-This is a project done for course ELEC1601 at the University of Sydney.  
+This is a project done for subject ELEC1601 at the University of Sydney.  
 The final code can be find in code_documentation, one for the master unit   
 (PJ_MASTER_V2.0) and one for the slave unit (PJ_SLAVE_V2.0)  
 

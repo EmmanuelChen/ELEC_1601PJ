@@ -5,8 +5,8 @@ The final code can be find in code_documentation, one for the master unit
 
 # Ideas
 Our idea is to build a self-navigating robot that automatically avoids  
-obsticalas well as detecting the temperature changes in the surrounding,  
-When temperature changes been detected, the robot will alert the master  
+obsticalas well as detecting the temperature changes in the surrounding.  
+When a temperature changes been detected, the robot will alert the master  
 unit via bluetooth communication by changing the master units LED light.  
 
 # Note
